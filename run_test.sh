@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+printf '\033%%G'
 echo "begin test"
 echo "----------"
 echo "block symbols: █ ▇ ▆ ▅ ▄ ▃ ▂ ▁"
